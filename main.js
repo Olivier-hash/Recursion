@@ -7,7 +7,6 @@
 //  when a problem has a repetitive structure, 
 // like computing factorials, calculating 
 // Fibonacci numbers, etc.
-// falsch commm
 
 
 function factorial(n) {
